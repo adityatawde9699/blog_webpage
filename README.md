@@ -17,9 +17,9 @@ Features
 
 File Structure
 
-├── index.html   # Main HTML file
-├── style.css    # Stylesheet for design and layout
-├── script.js    # JavaScript for interactivity and functionality
+├── index.html    Main HTML file
+├── style.css     Stylesheet for design and layout
+├── script.js     JavaScript for interactivity and functionality
 
 
 Setup and Usage
