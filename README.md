@@ -1,4 +1,9 @@
 Digital Blog
+![image](https://github.com/user-attachments/assets/112cc7cb-6900-403c-8eeb-8423e336c8ec)
+![image](https://github.com/user-attachments/assets/ad55b433-7d73-48b3-9a09-7c0e9c3ee114)
+![image](https://github.com/user-attachments/assets/3a0e6ef8-a93f-41ab-ab35-565164e8e1bf)
+
+
 
 Project Overview
 Digital Blog is a modern, responsive web application that provides technology insights, expert tutorials, and in-depth guides. The website is built with HTML, CSS, and JavaScript to offer a seamless user experience
